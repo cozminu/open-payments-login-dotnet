@@ -1,0 +1,4 @@
+[submodule "lib/open-payments-dotnet"]
+	path = lib/open-payments-dotnet
+	url = https://github.com/interledger/open-payments-dotnet.git
+	branch = cozmin/net-27
